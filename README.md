@@ -9,6 +9,11 @@ End-to-end data analytics project using Python for data cleaning, SQL for analys
 
 This project delivers an end-to-end data analytics solution to analyze retail sales performance and generate actionable business insights. The workflow covers data cleaning using Python, data transformation and querying using SQL, and interactive dashboard development using Power BI. The analysis helps stakeholders understand sales trends, customer behavior, and key performance metrics to support data-driven decision-making.
 
+📂 Dataset:
+Due to GitHub file size limits, only a sample of the dataset is uploaded.
+The full dataset was used locally for analysis.
+
+
 2️⃣ Business Problem
 
 Organizations often struggle to extract meaningful insights from raw transactional data due to data quality issues and lack of structured analysis.
