@@ -40,6 +40,7 @@ The objective of this project is to transform raw retail data into actionable in
    - Applied clean and professional dashboard styling
    - Added slicers for year and country filtering
   
+  
 4️⃣ Tools and Skills
    - Python (Pandas, NumPy) – Data cleaning & preprocessing
    - SQL (MySQL) – Data analysis & aggregation
