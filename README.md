@@ -12,6 +12,8 @@ This project delivers an end-to-end data analytics solution to analyze retail sa
 📂 Dataset:
 Due to GitHub file size limits, only a sample of the dataset is uploaded.
 The full dataset was used locally for analysis.
+The full dataset can be accessed from:
+- Kaggle: Online Retail Dataset
 
 
 2️⃣ Business Problem
